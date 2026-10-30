@@ -146,7 +146,7 @@ frontend/
 ## Running the Project
 
 ```bash
-git clone https://github.com/SaajidAhamed007/Concurrency-Safe-Seat-Booking-System.git
+git clone https://github.com/Devadharshini784/Concurrency-Safe-Seat-Booking-System.git
 
 cd backend
 npm install
@@ -190,6 +190,6 @@ Required Services:
 
 ## Author
 
-**Saajid Ahamed**
+**DEVADHARSHINI D**
 
-GitHub: https://github.com/SaajidAhamed007
+GitHub: https://github.com/Devadharshini784
